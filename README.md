@@ -1,7 +1,7 @@
 This repo implements the training and testing of depth upsampling networks for "Learning Scene Structure Guidance via Cross-Task Knowledge Transfer for Single Depth Super-Resolution" by Baoli Sun, Xinchen Ye, and et al. at DLUT.
 
 ## The proposed Cross-Task Knowledge Transfer framework
-![](https://github.com/Sunbaoli/dsr-distillation/mainnet.png)
+![](https://github.com/Sunbaoli/dsr-distillation/blob/master/mainnet.png)
 
 
 
